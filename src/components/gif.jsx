@@ -11,3 +11,7 @@ class Gif extends Component {
 
 export default Gif;
 
+
+
+
+// create a fucntion in paretn called here which gives the selected gif image
